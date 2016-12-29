@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "906557587024",
+    "firebase_url": "https://simplehearts-a4fc1.firebaseio.com",
+    "project_id": "simplehearts-a4fc1",
+    "storage_bucket": "simplehearts-a4fc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906557587024:android:67feb83a863afa7d",
+        "android_client_info": {
+          "package_name": "com.androiddev.sandbox.simplehearts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906557587024-daot77dqlkggqt3hu10g2hbla7necima.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androiddev.sandbox.simplehearts",
+            "certificate_hash": "00AA41DE5E0DEE7FBAD6C28797B94D6278341A34"
+          }
+        },
+        {
+          "client_id": "906557587024-fj86tb5pp4o4ca93eef01v0v6emkhiep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906557587024-fj86tb5pp4o4ca93eef01v0v6emkhiep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
